@@ -1,0 +1,10 @@
+body{
+  background-color: cyan;
+  color: black;
+}
+#root{
+  background-color: azure;
+}
+h1, p {
+  font-family: Lato;
+}
